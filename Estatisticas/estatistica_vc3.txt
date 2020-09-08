@@ -1,0 +1,9 @@
+Metodo inicial	Numero de reaquecimentos	Metodo vizinho	Media	Melhor encontrado	Coeficiente de variacao	Melhor solução = 55
+Random	7	Swap____	66.68	62	1.1272727272727272
+Random	7	Exclusao	66.04	61	1.1090909090909091
+Random	14	Swap____	65.8	61	1.1090909090909091
+Random	14	Exclusao	64.23	56	1.018181818181818
+Guloso	7	Swap____	62.38	60	1.0909090909090908
+Guloso	7	Exclusao	61.23	58	1.0545454545454545
+Guloso	14	Swap____	61.69	59	1.0727272727272728
+Guloso	14	Exclusao	60.3	57	1.0363636363636364
